@@ -1,0 +1,28 @@
+
+body {
+  background-color: rgba(46, 80, 119, 0.747);
+  margin-left: 15%;
+  margin-right: 15%;
+  border-radius: 20px;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+div {
+  margin-left: 29%;
+  margin-right: 29%;
+  background-color: rgba(43, 174, 226, 0.836);
+  border-radius: 12px;
+}
+
+
+p.Title {
+  color: rgb(138, 10, 156);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 75px;
+  text-align: center;
+}
+

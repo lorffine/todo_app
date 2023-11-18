@@ -25,7 +25,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/app/todo-list/todo-list.component.css"
             ],
             "scripts": []
           },
