@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
+this project is made by Ahmed Elj studying in MPSSRI1 FSG 2023.
 ## Requirements
 ```
 node.js
@@ -30,3 +31,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+ ## license 
+Modification, publication is fully allowed.
